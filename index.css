@@ -1,0 +1,44 @@
+body {
+    background-image: url("inside_warehouse-2.png");
+    background-size: cover;
+    font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color:#fff;
+}
+
+.container{max-width:350px;margin:3em auto;}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #1e1b7b;
+}
+
+#save-btn {
+    background: #105d34;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
